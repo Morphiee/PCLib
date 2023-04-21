@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="PCLib" target="16" />
+      <module name="PCLib" target="18" />
     </bytecodeTargetLevel>
   </component>
 </project>

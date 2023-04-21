@@ -1,0 +1,6 @@
+gg\morphie\pclib\dependencies\Dependencies.class
+gg\morphie\pclib\string\AddColor.class
+gg\morphie\pclib\PCLib.class
+gg\morphie\pclib\string\CaseUtils.class
+gg\morphie\pclib\dependencies\QSMethods.class
+gg\morphie\pclib\location\CSLocationUtils.class

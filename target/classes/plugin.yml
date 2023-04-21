@@ -1,0 +1,5 @@
+name: PCLib
+version: 1.0.0
+main: gg.morphie.pclib.PCLib
+author: Morphie
+api-version: 1.19
